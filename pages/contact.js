@@ -8,5 +8,5 @@ const ContactStyles = styled.div`
 `;
 
 export default function Contact() {
-  return <ContactStyles>STUDIO@JOHNORTH.COM</ContactStyles>;
+  return <ContactStyles>JOHNORTHISTHEHOBBYIST@GMAIL.COM</ContactStyles>;
 }
